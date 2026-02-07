@@ -11,10 +11,7 @@
       "rewrites": [
         {
           "source": "**",
-          "run": {
-            "serviceId": "qazaq-ruhaniyat",
-            "region": "us-west1"
-          }
+          "destination": "/index.html"
         }
       ]
     }
